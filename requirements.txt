@@ -2,6 +2,6 @@ spacy==3.0.7
 transformers==4.4.2
 azure-storage-blob==12.7.1
 scispacy==0.4.0
-torch==1.8.1
+torch==1.8.3
 torchvision==0.9.1
 pandas==1.3.3
