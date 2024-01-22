@@ -1,0 +1,2 @@
+mkdir checkpoints
+wget -P checkpoints https://pkannotations.blob.core.windows.net/nerdata/trained_models/best-ner/biobert-ner-trained.ckpt?sv=2023-01-03&st=2024-01-22T01%3A43%3A19Z&se=2080-12-23T01%3A43%3A00Z&sr=b&sp=r&sig=kf6HUzM0TY5E0VqzJ6lKmDrP2pZxkm5J2%2FcSF%2B1Jt00%3D

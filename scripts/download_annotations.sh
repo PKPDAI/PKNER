@@ -1,0 +1,4 @@
+mkdir data
+wget -P data/training.jsonl https://pkannotations.blob.core.windows.net/nerdata/final/training.jsonl?sv=2023-01-03&st=2024-01-22T02%3A03%3A11Z&se=2080-01-23T02%3A03%3A00Z&sr=b&sp=r&sig=6RNw70R6B8LuqTKIZcgkWs%2BmGICv%2BTa0IC0Y%2FfIIbx4%3D
+wget -P data/test.jsonl https://pkannotations.blob.core.windows.net/nerdata/final/test.jsonl?sv=2023-01-03&st=2024-01-22T02%3A04%3A19Z&se=2080-01-23T02%3A04%3A00Z&sr=b&sp=r&sig=ahy9%2F6ddCz9XUmvzjDNAECBmrxOf3JAhJbmOva8zgSc%3D
+wget -P data/dev.jsonl https://pkannotations.blob.core.windows.net/nerdata/final/dev.jsonl?sv=2023-01-03&st=2024-01-22T02%3A05%3A11Z&se=2080-01-23T02%3A05%3A00Z&sr=b&sp=r&sig=6qsIznfYsnJMhvnXTSFltScZ4gMq7irqVqx3UmT8W9g%3D
