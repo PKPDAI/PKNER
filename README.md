@@ -1,7 +1,6 @@
 # PKNER
-[![Publication DOI](https://img.shields.io/badge/bioRxiv-10.1101%2F123456-blue)]([https://doi.org/10.5281/zenodo.4646970](https://doi.org/10.1101/2024.02.12.580001
-))
-[![Corpus DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4646970.svg)](https://doi.org/10.5281/zenodo.4646970)
+
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101/2024.02.12.580001-red)](https://doi.org/10.1101/2024.02.12.580001) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4646970.svg)](https://doi.org/10.5281/zenodo.4646970)
 
 
 [**PKNER**](#pkner)| [**Setup**](#setup) | [**Download data and models**](#download-data-and-checkpoints) | [**Inference**](#inference) | [**Citing**](#citation)
